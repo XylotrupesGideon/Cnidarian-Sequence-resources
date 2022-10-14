@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Alatina alata_](#alatina-alata)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Cassiopea xamachana_](#cassiopea-xamachana)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra vulgaris_](#hydra-vulgaris)<br>
 <br>
@@ -126,6 +127,13 @@ Short Reads
 ### Scyphozoa
 
 <hr>
+
+#### **Cassiopea xamachana**
+
+Data Repository: [Ryan Lab](http://ryanlab.whitney.ufl.edu)<br>
+Reference: ([Ohdera et al. 2018](https://doi.org/10.3389/fevo.2018.00035))
+
+Data repository: [Github](https://github.com/josephryan/Ohdera_et_al_2018)
 
 ### Hydrozoa
 
