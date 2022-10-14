@@ -20,7 +20,6 @@
 
 [**Ctenophora**](#ctenophora)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Mnemiopsis leidyi_](#mnemiopsis-leidyi)<br>
-Mnemiopsis leidyi
 
 [References](#references)
 
