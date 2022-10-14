@@ -7,6 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montastraea cavernosa_](#montastraea-cavernosa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
 [**Endocnidozoa**](#endocnidozoa)<br>
 [**Medusozoa**](#medusozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>
@@ -77,7 +78,7 @@ Gene models:<br>
 
 - [transcripts](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.cds.gz)
 - [proteins](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.aa.gz)
-- [annotationa](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.gff.gz)
+- [annotations](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.gff.gz)
 
 ## Endocnidozoa
 
