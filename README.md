@@ -1,5 +1,8 @@
 # Cnidarian/Ctenophora Resources
 
+On this page I try my best to collect links to cnidarian and ctenophor resources. These resourse are mostly genome, transcriptome and protein model resources.
+Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@cos.uni-heidelberg.de.
+
 [**Anthozoa**](#anthozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Hexacorallia](#hexacorallia)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Anthopleura elegantissia_](#anthopleura-elegantissima)<br>
