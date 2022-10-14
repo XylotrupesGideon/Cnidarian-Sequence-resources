@@ -1,6 +1,6 @@
 # Cnidarian/Ctenophora Resources
 
-On this page I try my best to collect links to cnidarian and ctenophor resources. These resourse are mostly genome, transcriptome and protein model resources.
+On this page I try my best to collect links to cnidarian and ctenophor resources. These resourse are mostly genome, transcriptome and protein model resources. This idea is based on a previous website by the Ryan Lab that unfortunately is no longer available.
 Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@cos.uni-heidelberg.de.
 
 [**Anthozoa**](#anthozoa)<br>
