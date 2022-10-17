@@ -15,7 +15,8 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Xenia spec._](#renilla-reniformis)<br>
 [**Endocnidozoa**](#endocnidozoa)<br>
 [**Medusozoa**](#medusozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>
@@ -143,6 +144,14 @@ Gene models:<br>
 - [transcripts](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.cds.gz)
 - [proteins](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.aa.gz)
 - [annotations](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.gff.gz)
+
+<hr class= "Species">
+
+#### **Xenia spec.**
+
+[Genome, Transcripts, Proteins, annotations](https://cmo.carnegiescience.edu/data), [Single Cell](https://cmo.carnegiescience.edu/cb/?ds=non_regeneration_integrated)
+
+<hr>
 
 ## Endocnidozoa
 
