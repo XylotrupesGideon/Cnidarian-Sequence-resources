@@ -15,8 +15,8 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Xenia spec._](#renilla-reniformis)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Xenia spec._](#xenia-spec)<br>
 [**Endocnidozoa**](#endocnidozoa)<br>
 [**Medusozoa**](#medusozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>
