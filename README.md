@@ -6,8 +6,11 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 [**Anthozoa**](#anthozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Hexacorallia](#hexacorallia)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Anthopleura elegantissia_](#anthopleura-elegantissima)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Acropora | 15 species_](#acropora-15-species)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Astreopora myriophthalma_](#astreopora-myriophthalma)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Fungia scutaria_](#fungia-scutaria)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montastraea cavernosa_](#montastraea-cavernosa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
@@ -17,10 +20,12 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Calvadosia cruxmelitensis_](#calvadosia-cruxmelitensis)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Alatina alata_](#alatina-alata)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Morbakka virulenta_](#morbakka-virulenta)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Cassiopea xamachana_](#cassiopea-xamachana)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra vulgaris_](#hydra-vulgaris)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra viridissima_](#hydra-viridissima)<br>
 <br>
 
 [**Ctenophora**](#ctenophora)<br>
@@ -45,6 +50,36 @@ Reference: Kitchen et al. 2015<br>
 
 <hr class="Species">
 
+#### Acropora 15 species
+
+**Genome Assemblies**<br>
+[OIST Genome project](https://marinegenomics.oist.jp/gallery) contains:
+
+- Acropora acuminata
+- Acropora awi
+- Acropora cytherea
+- Acropora digitifera
+- Acropora echinata
+- Acropora florida
+- Acropora gemmifera
+- Acropora hyacinthus
+- Acropora intermedia
+- Acropora microphthalma
+- Acropora muricata
+- Acropora nasuta
+- Acropora selago
+- Acropora tenuis
+- Acropora yongei
+
+<hr class="Species">
+
+#### Astreopora myriophthalma
+
+**Genome Assembly**<br>
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+
+<hr class="Species">
+
 #### Fungia scutaria
 
 Reference: Kitchen et al. 2015 <br>
@@ -56,6 +91,13 @@ Reference: Kitchen et al. 2015 <br>
 
 Reference: Kitchen et al. 2015<br>
 [Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+
+<hr class="Species">
+
+#### Porites australiensis
+
+Genome:
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
 
 <hr class="Species">
 
@@ -109,6 +151,10 @@ Gene models and Proteome <br>
 
 ### Cubozoa
 
+#### Morbakka virulenta
+
+Genome: [OIST Genome project](https://marinegenomics.oist.jp/gallery)
+
 <hr>
 
 #### **Alatina alata**
@@ -118,6 +164,7 @@ Reference: ([Ohdera et al. 2018](https://doi.org/10.3389/fevo.2018.00035))
 
 Genome:<br>
 [Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Aala/downloads/Aala.11.genome.fsa.gz)
+Atlantic Ocean and Roscoff laboratory strain at: [OIST Genome project](https://marinegenomics.oist.jp/gallery)
 
 Gene models and Proteome <br>
 [github](https://github.com/josephryan/Ohdera_et_al_2018/tree/master/AA_Files)
@@ -143,6 +190,13 @@ Data repository: [Github](https://github.com/josephryan/Ohdera_et_al_2018)
 #### Hydra vulgaris
 
 Genome Portal: [Hydra 2.0 Genome Project Portal](https://research.nhgri.nih.gov/hydra/)
+
+<hr class="Species">
+
+#### Hydra viridissima
+
+Genome:
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
 
 <hr>
 
