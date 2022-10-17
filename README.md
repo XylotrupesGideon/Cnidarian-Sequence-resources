@@ -10,6 +10,8 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Astreopora myriophthalma_](#astreopora-myriophthalma)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Fungia scutaria_](#fungia-scutaria)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montastraea cavernosa_](#montastraea-cavernosa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora cactus_](#montipora-cactus)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora efflorescens_](#montipora-efflorescens)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
@@ -91,6 +93,20 @@ Reference: Kitchen et al. 2015 <br>
 
 Reference: Kitchen et al. 2015<br>
 [Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+
+<hr class="Species">
+
+#### Montipora efflorescens
+
+Genome:
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+
+<hr class="Species">
+
+#### Montipora cactus
+
+Genome:
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
 
 <hr class="Species">
 
