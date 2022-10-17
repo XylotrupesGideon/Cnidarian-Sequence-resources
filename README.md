@@ -28,6 +28,8 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra vulgaris_](#hydra-vulgaris)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra viridissima_](#hydra-viridissima)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydractinia symbiolongicarpus_](#hydractinia-symbiolongicarpus)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydractinia echinatas_](#hydractinia-echinatas)<br>
 <br>
 
 [**Ctenophora**](#ctenophora)<br>
@@ -213,6 +215,16 @@ Genome Portal: [Hydra 2.0 Genome Project Portal](https://research.nhgri.nih.gov/
 
 Genome:
 [OIST Genome project](https://marinegenomics.oist.jp/gallery)
+
+#### Hydractinia symbiolongicarpus
+
+<hr class="Species">
+
+Genome, Transcriptome, Protein models and Single Cell: [Hydractina Genome Portal](https://research.nhgri.nih.gov/hydractinia/download/index.cgi?dl=pm)
+
+#### Hydractinia echinata
+
+Genome, Transcriptome and Protein models: [Hydractina Genome Portal](https://research.nhgri.nih.gov/hydractinia/download/index.cgi?dl=pm)
 
 <hr>
 
