@@ -1,0 +1,10 @@
+h3.Species {
+    font-style: italic;
+}
+
+div.Species_Resources {
+    border-color: lightgray;
+    border-width: 2px;
+    border-style: solid;
+    padding: 2px;
+}
