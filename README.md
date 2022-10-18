@@ -7,12 +7,16 @@ Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@c
 &nbsp;&nbsp;&nbsp;&nbsp; [Hexacorallia](#hexacorallia)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Anthopleura elegantissia_](#anthopleura-elegantissima)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Acropora | 15 species_](#acropora-15-species)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Acropora muricata_](#acropora-muricata)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Astreopora myriophthalma_](#astreopora-myriophthalma)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Fungia scutaria_](#fungia-scutaria)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montastraea cavernosa_](#montastraea-cavernosa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora cactus_](#montipora-cactus)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora efflorescens_](#montipora-efflorescens)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora foliosa_](#montipora-foliosa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Pocillopora damicornis_](#pocillopora-damicornis)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Pocillopora verrucosa_](#pocillopora-verrucosa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
@@ -78,6 +82,12 @@ Reference: Kitchen et al. 2015<br>
 
 <hr class="Species">
 
+#### Acropora muricata
+
+Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+
+<hr class="Species">
+
 #### Astreopora myriophthalma
 
 **Genome Assembly**<br>
@@ -99,6 +109,13 @@ Reference: Kitchen et al. 2015<br>
 
 <hr class="Species">
 
+#### Montipora cactus
+
+Genome:
+[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+
+<hr class="Species">
+
 #### Montipora efflorescens
 
 Genome:
@@ -106,10 +123,21 @@ Genome:
 
 <hr class="Species">
 
-#### Montipora cactus
+#### Montipora foliosa
 
-Genome:
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+
+<hr class="Species">
+
+#### Pocillopora damicornis
+
+Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+
+<hr class="Species">
+
+#### Pocillopora verrucosa
+
+Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
 
 <hr class="Species">
 
@@ -250,6 +278,8 @@ Genome Portal: [https://research.nhgri.nih.gov/mnemiopsis/](https://research.nhg
 # References
 
 > **Babonis** LS, DeBiasse MB, Francis WR, Christianson LM, Moss AG, Haddock SHD, Martindale MQ, Ryan JF. Integrating Embryonic Development and Evolutionary History to Characterize Tentacle-Specific Cell Types in a Ctenophore. Mol Biol Evol. 2018 Dec 1;35(12):2940-2956. doi:https://doi.org/10.1093/molbev/msy171
+
+> **Han** T, Liao X, Zhu Y, Liu Y, Lu N, Li Y, Guo Z, Chen J-Y, He C, Lu Z. Full-Length Transcriptome Maps of Reef-Building Coral Illuminate the Molecular Basis of Calcification, Symbiosis, and Circadian Genes. International Journal of Molecular Sciences. 2022; 23(19):11135. https://doi.org/10.3390/ijms231911135
 
 > **Kayal**, E., Bentlage, B., Sabrina Pankey, M. et al. Phylogenomics provides a robust topology of the major cnidarian lineages and insights on the origins of key organismal traits. BMC Evol Biol 18, 68 (2018). https://doi.org/10.1186/s12862-018-1142-0
 
