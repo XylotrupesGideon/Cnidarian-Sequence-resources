@@ -8,9 +8,9 @@ If this page has helped you to save time or you just like the idea of creating t
 Contact: email: gideon.bergheim@cos.uni-heidelberg.de | Twitter: [@XyloGideon](https://twitter.com/XyloGideon)
 
 
-Current number of species: 50<br>Last updated: 2022-10-20
+Current number of species: 91<br>Last updated: 2022-10-20
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Cnidaria](#cnidaria)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthozoa](#anthozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hexacorallia](#hexacorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Acropora](#acropora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora acuminata](#acropora-acuminata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora awi](#acropora-awi)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora cytherea](#acropora-cytherea)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora digitifera](#acropora-digitifera)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora echinata](#acropora-echinata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora florida](#acropora-florida)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora gemmifera](#acropora-gemmifera)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora hyacinthus](#acropora-hyacinthus)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora intermedia](#acropora-intermedia)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora microphthalma](#acropora-microphthalma)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora muricata](#acropora-muricata)* (Genome Assembly, Predicted Genes, Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora nasuta](#acropora-nasuta)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora selago](#acropora-selago)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora tenuis](#acropora-tenuis)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora yongei](#acropora-yongei)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora millepora](#acropora-millepora)* (Predicted Genes, Predicted Proteins, Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora hyacintus](#acropora-hyacintus)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora cervicornis](#acropora-cervicornis)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Astreopora](#astreopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Astreopora myriophthalma](#astreopora-myriophthalma)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Porites](#porites)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Porites australiensis](#porites-australiensis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Porites asteroides](#porites-asteroides)* (Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montipora](#montipora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora cactus](#montipora-cactus)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora efflorescens](#montipora-efflorescens)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora foliosa](#montipora-foliosa)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora aequituberculata](#montipora-aequituberculata)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthopleura](#anthopleura)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Anthopleura elegantissima](#anthopleura-elegantissima)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fungia](#fungia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Fungia scutaria](#fungia-scutaria)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montastraea](#montastraea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montastraea cavernosa](#montastraea-cavernosa)* (Transcriptome Assembly, Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seriatopora](#seriatopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Seriatopora hystrix](#seriatopora-hystrix)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pocillopora](#pocillopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Pocillopora damicornis](#pocillopora-damicornis)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Pocillopora verrucosa](#pocillopora-verrucosa)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Proites](#proites)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Proites asteroides](#proites-asteroides)* (Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Orbicella](#orbicella)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Orbicella faveolata](#orbicella-faveolata)* (Genome Assembly, SRA Library)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Octocorallia](#octocorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Renilla](#renilla)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Renilla reniformis](#renilla-reniformis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xenia](#xenia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Xenia spec.](#xenia-spec.)* (Genome Assembly, Predicted Genes, Predicted Proteins, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Plexaura](#plexaura)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Plexaura homomalla](#plexaura-homomalla)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Plexaura kükenthali](#plexaura-kükenthali)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Medusozoa](#medusozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aurelia](#aurelia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aurelia aurita(Atlantic Ocean)](#aurelia-aurita(atlantic-ocean))* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aurelia aurita(Roscoff)](#aurelia-aurita(roscoff))* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cassiopea](#cassiopea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Cassiopea xamachana](#cassiopea-xamachana)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aureilia](#aureilia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aureilia aurita](#aureilia-aurita)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydra](#hydra)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydra viridissima](#hydra-viridissima)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydra vulgaris](#hydra-vulgaris)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcript Assembly, Mito Chromosome, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydractinia](#hydractinia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydractinia symbiolongicarpus](#hydractinia-symbiolongicarpus)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydractinia echinata](#hydractinia-echinata)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Clytia](#clytia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Clytia hemispaerica](#clytia-hemispaerica)* (Genome Assembly, Predicted Genes, Predicted Transcripts, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Morbakka](#morbakka)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Morbakka virulenta](#morbakka-virulenta)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Alatina](#alatina)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Alatina alata](#alatina-alata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calvadosia](#calvadosia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Calvadosia cruxmelitensis](#calvadosia-cruxmelitensis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;[Ctenophora](#ctenophora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tentaculata](#tentaculata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lobata](#lobata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mnemiopsis](#mnemiopsis)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Mnemiopsis leidyi](#mnemiopsis-leidyi)* (Genome Assembly, Transcriptome Assembly, Predicted Genes, Predicted Proteins, Mito Chromosome, Single Cell Atlas)<br>[References](#references)
+&nbsp;&nbsp;&nbsp;&nbsp;[Cnidaria](#cnidaria)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthozoa](#anthozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hexacorallia](#hexacorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Acropora](#acropora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora acuminata](#acropora-acuminata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora awi](#acropora-awi)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora cytherea](#acropora-cytherea)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora digitifera](#acropora-digitifera)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora echinata](#acropora-echinata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora florida](#acropora-florida)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora gemmifera](#acropora-gemmifera)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora hyacinthus](#acropora-hyacinthus)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora intermedia](#acropora-intermedia)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora microphthalma](#acropora-microphthalma)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora muricata](#acropora-muricata)* (Genome Assembly, Predicted Genes, Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora nasuta](#acropora-nasuta)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora selago](#acropora-selago)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora tenuis](#acropora-tenuis)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora yongei](#acropora-yongei)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora millepora](#acropora-millepora)* (Predicted Genes, Predicted Proteins, Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora hyacintus](#acropora-hyacintus)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Acropora cervicornis](#acropora-cervicornis)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Astreopora](#astreopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Astreopora myriophthalma](#astreopora-myriophthalma)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Porites](#porites)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Porites australiensis](#porites-australiensis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Porites asteroides](#porites-asteroides)* (Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montipora](#montipora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora cactus](#montipora-cactus)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora efflorescens](#montipora-efflorescens)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora foliosa](#montipora-foliosa)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montipora aequituberculata](#montipora-aequituberculata)* (Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthopleura](#anthopleura)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Anthopleura elegantissima](#anthopleura-elegantissima)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fungia](#fungia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Fungia scutaria](#fungia-scutaria)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montastraea](#montastraea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Montastraea cavernosa](#montastraea-cavernosa)* (Transcriptome Assembly, Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seriatopora](#seriatopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Seriatopora hystrix](#seriatopora-hystrix)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pocillopora](#pocillopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Pocillopora damicornis](#pocillopora-damicornis)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Pocillopora verrucosa](#pocillopora-verrucosa)* (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Proites](#proites)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Proites asteroides](#proites-asteroides)* (Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Orbicella](#orbicella)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Orbicella faveolata](#orbicella-faveolata)* (Genome Assembly, SRA Library)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Epizoanthus](#epizoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Epizoanthus stellaris](#epizoanthus-stellaris)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Epizoanthus fatuus](#epizoanthus-fatuus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Epizoanthus planus](#epizoanthus-planus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Epizoanthus rinbou](#epizoanthus-rinbou)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Epizoanthus scotinus](#epizoanthus-scotinus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Umimayanthus](#umimayanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Umimayanthus kanabou](#umimayanthus-kanabou)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Umimayanthus chanpuru](#umimayanthus-chanpuru)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Isaurus](#isaurus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Isaurus tuberculatus](#isaurus-tuberculatus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zoanthus](#zoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Zoanthus sanctaehelenae](#zoanthus-sanctaehelenae)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Zoanthus solanderi](#zoanthus-solanderi)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Zoanthus gigantus](#zoanthus-gigantus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Zoanthus sociatus](#zoanthus-sociatus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Churabana](#churabana)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Churabana kuroshioae](#churabana-kuroshioae)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Parazoanthus](#parazoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Parazoanthus atlanticus](#parazoanthus-atlanticus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Parazoanthus swiftii](#parazoanthus-swiftii)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Parazoanthus darwini](#parazoanthus-darwini)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neozoanthus](#neozoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Neozoanthus uchina](#neozoanthus-uchina)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoanthus](#hydrozoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydrozoanthus gracilis](#hydrozoanthus-gracilis)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bergia](#bergia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Bergia sp. 'catenularis'](#bergia-sp.-'catenularis')* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Palythoa](#palythoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Palythoa heliodiscus](#palythoa-heliodiscus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Palythoa grandis](#palythoa-grandis)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Antipathozoanthus](#antipathozoanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Antipathozoanthus obscurus](#antipathozoanthus-obscurus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Antipathozoanthus remengesaui](#antipathozoanthus-remengesaui)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stichodactyla](#stichodactyla)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Stichodactyla mertensii](#stichodactyla-mertensii)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Stichodactyla helianthus](#stichodactyla-helianthus)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Entacmaea](#entacmaea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Entacmaea quadricolor](#entacmaea-quadricolor)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Heteractis](#heteractis)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Heteractis magnifica](#heteractis-magnifica)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Heteractis crispa](#heteractis-crispa)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Phymanthus](#phymanthus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Phymanthus crucifer](#phymanthus-crucifer)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Octocorallia](#octocorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Renilla](#renilla)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Renilla reniformis](#renilla-reniformis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xenia](#xenia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Xenia spec.](#xenia-spec.)* (Genome Assembly, Predicted Genes, Predicted Proteins, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Plexaura](#plexaura)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Plexaura homomalla](#plexaura-homomalla)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Plexaura kükenthali](#plexaura-kükenthali)* (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Phenganax](#phenganax)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Phenganax marumi](#phenganax-marumi)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Phenganax stokvisi](#phenganax-stokvisi)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Phenganax subtilis](#phenganax-subtilis)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Medusozoa](#medusozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aurelia](#aurelia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aurelia aurita(Atlantic Ocean)](#aurelia-aurita(atlantic-ocean))* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aurelia aurita(Roscoff)](#aurelia-aurita(roscoff))* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aurelia coerulea](#aurelia-coerulea)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cassiopea](#cassiopea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Cassiopea xamachana](#cassiopea-xamachana)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aureilia](#aureilia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Aureilia aurita](#aureilia-aurita)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chrysaora](#chrysaora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Chrysaora fuscescens](#chrysaora-fuscescens)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Chrysaora achlyos](#chrysaora-achlyos)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Chrysaora chesapeakei](#chrysaora-chesapeakei)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydra](#hydra)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydra viridissima](#hydra-viridissima)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydra vulgaris](#hydra-vulgaris)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcript Assembly, Mito Chromosome, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydractinia](#hydractinia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydractinia symbiolongicarpus](#hydractinia-symbiolongicarpus)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Hydractinia echinata](#hydractinia-echinata)* (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Clytia](#clytia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Clytia hemispaerica](#clytia-hemispaerica)* (Genome Assembly, Predicted Genes, Predicted Transcripts, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bythotiara](#bythotiara)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Bythotiara depressa](#bythotiara-depressa)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cladonema](#cladonema)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Cladonema radiatum](#cladonema-radiatum)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Craspedacusta](#craspedacusta)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Craspedacusta sowerbii](#craspedacusta-sowerbii)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Morbakka](#morbakka)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Morbakka virulenta](#morbakka-virulenta)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Alatina](#alatina)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Alatina alata](#alatina-alata)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chironex](#chironex)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Chironex yamaguchii](#chironex-yamaguchii)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calvadosia](#calvadosia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Calvadosia cruxmelitensis](#calvadosia-cruxmelitensis)* (Genome Assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Haliclystus](#haliclystus)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Haliclystus inabai](#haliclystus-inabai)* (Genome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;[Ctenophora](#ctenophora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tentaculata](#tentaculata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lobata](#lobata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mnemiopsis](#mnemiopsis)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Mnemiopsis leidyi](#mnemiopsis-leidyi)* (Genome Assembly, Transcriptome Assembly, Predicted Genes, Predicted Proteins, Mito Chromosome, Single Cell Atlas)<br>[References](#references)
 
 
 ## Cnidaria
@@ -184,6 +184,19 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Antipathozoanthus
+###### *Antipathozoanthus obscurus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/598176'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/598176)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Antipathozoanthus remengesaui*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/598175'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/598175)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Astreopora
 ###### *Astreopora myriophthalma*
 
@@ -193,10 +206,89 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Bergia
+###### *Bergia sp. 'catenularis'*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662740'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662740)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Churabana
+###### *Churabana kuroshioae*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/847941'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/847941)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Entacmaea
+###### *Entacmaea quadricolor*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/523932'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/523932)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Epizoanthus
+###### *Epizoanthus fatuus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/847940'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/847940)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Epizoanthus planus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/676135'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/676135)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Epizoanthus rinbou*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662986'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662986)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Epizoanthus scotinus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662773'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662773)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Epizoanthus stellaris*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/866866'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/866866)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Fungia
 ###### *Fungia scutaria*
 
 <a href='https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)		Publication: Kitchen et al.		 DOI: [10.1534/g3.115.020164](https://doi.org/10.1534/g3.115.020164)
+
+<hr class='Species'>
+
+##### Heteractis
+###### *Heteractis crispa*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/523929'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/523929)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Heteractis magnifica*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/523931'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/523931)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Hydrozoanthus
+###### *Hydrozoanthus gracilis*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662988'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662988)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Isaurus
+###### *Isaurus tuberculatus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/866863'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/866863)		Publication: 		 DOI: [nan]()
 
 <hr class='Species'>
 
@@ -242,12 +334,60 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Neozoanthus
+###### *Neozoanthus uchina*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/811231'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/811231)		Publication: 		 DOI: [nan]()
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/811231'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/811231)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Orbicella
 ###### *Orbicella faveolata*
 
 <a href='https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Orbicella_faveolata/100/'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Orbicella_faveolata/100/)		Publication: 		 DOI: [nan]()
 
 <a href='https://www.ncbi.nlm.nih.gov/bioproject/?term=Prada+orbicella'><img src='icons/SRA Library.svg'></a>- [SRA Library](https://www.ncbi.nlm.nih.gov/bioproject/?term=Prada+orbicella)		Publication: Prada et al.		 DOI: [10.1016/j.cub.2016.09.039.](https://doi.org/10.1016/j.cub.2016.09.039.)
+
+<hr class='Species'>
+
+##### Palythoa
+###### *Palythoa grandis*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/580275'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/580275)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Palythoa heliodiscus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/598194'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/598194)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Parazoanthus
+###### *Parazoanthus atlanticus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/847935'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/847935)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Parazoanthus darwini*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662981'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662981)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Parazoanthus swiftii*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662982'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662982)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Phymanthus
+###### *Phymanthus crucifer*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/497052'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/497052)		Publication: 		 DOI: [nan]()
 
 <hr class='Species'>
 
@@ -297,7 +437,77 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Stichodactyla
+###### *Stichodactyla helianthus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/523933'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/523933)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Stichodactyla mertensii*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/523934'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/523934)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Umimayanthus
+###### *Umimayanthus chanpuru*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662702'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662702)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Umimayanthus kanabou*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/866865'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/866865)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Zoanthus
+###### *Zoanthus gigantus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/598193'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/598193)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Zoanthus sanctaehelenae*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/847942'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/847942)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Zoanthus sociatus*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/598186'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/598186)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Zoanthus solanderi*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662769'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662769)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 #### Octocorallia
+##### Phenganax
+###### *Phenganax marumi*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662984'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662984)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Phenganax stokvisi*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/662766'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/662766)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Phenganax subtilis*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/647552'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/647552)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Plexaura
 ###### *Plexaura homomalla*
 
@@ -367,6 +577,12 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+###### *Aurelia coerulea*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/493278'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/493278)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Cassiopea
 ###### *Cassiopea xamachana*
 
@@ -376,7 +592,40 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Chrysaora
+###### *Chrysaora achlyos*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/493291'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/493291)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Chrysaora chesapeakei*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/484605'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/484605)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+###### *Chrysaora fuscescens*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/493610'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/493610)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 #### Hydrozoa
+##### Bythotiara
+###### *Bythotiara depressa*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/729082'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/729082)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Cladonema
+###### *Cladonema radiatum*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/647553'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/647553)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Clytia
 ###### *Clytia hemispaerica*
 
@@ -387,6 +636,13 @@ Current number of species: 50<br>Last updated: 2022-10-20
 <a href='http://131.215.78.40/cb/?ds=ucscClytia20210517Scanpy'><img src='icons/Single Cell Atlas.svg'></a>- [Single Cell Atlas](http://131.215.78.40/cb/?ds=ucscClytia20210517Scanpy)		Publication: Chari, et al.		 DOI: [10.1126/sciadv.abh1683](https://doi.org/10.1126/sciadv.abh1683)
 
 <a href='http://marimba.obs-vlfr.fr/downloads/'><img src='icons/Predicted Transcripts.svg'></a>- [Predicted Transcripts](http://marimba.obs-vlfr.fr/downloads/)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
+##### Craspedacusta
+###### *Craspedacusta sowerbii*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/335818'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/335818)		Publication: 		 DOI: [nan]()
 
 <hr class='Species'>
 
@@ -470,6 +726,13 @@ Current number of species: 50<br>Last updated: 2022-10-20
 
 <hr class='Species'>
 
+##### Chironex
+###### *Chironex yamaguchii*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/764276'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/764276)		Publication: 		 DOI: [nan]()
+
+<hr class='Species'>
+
 ##### Morbakka
 ###### *Morbakka virulenta*
 
@@ -488,6 +751,13 @@ Current number of species: 50<br>Last updated: 2022-10-20
 <a href='http://ryanlab.whitney.ufl.edu/genomes/Ccrux/'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](http://ryanlab.whitney.ufl.edu/genomes/Ccrux/)		Publication: Ohdera et al.		 DOI: [10.1093/gigascience/giz069](https://doi.org/10.1093/gigascience/giz069)
 
 <a href='http://ryanlab.whitney.ufl.edu/genomes/Ccrux/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](http://ryanlab.whitney.ufl.edu/genomes/Ccrux/)		Publication: Ohdera et al.		 DOI: [10.1093/gigascience/giz069](https://doi.org/10.1093/gigascience/giz069)
+
+<hr class='Species'>
+
+##### Haliclystus
+###### *Haliclystus inabai*
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/744855'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/744855)		Publication: 		 DOI: [nan]()
 
 <hr class='Species'>
 
