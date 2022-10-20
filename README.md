@@ -1,301 +1,443 @@
-# Cnidarian/Ctenophora Resources
-
-On this page I try my best to collect links to cnidarian and ctenophor resources. These resourse are mostly genome, transcriptome and protein model resources. This idea is based on a previous website by the Ryan Lab that unfortunately is no longer available.
-Please, let me know if I missed a resource e.g. with an e-mail gideon.bergheim@cos.uni-heidelberg.de.
+# Cnidarian/Ctenophore Resources
+This is a collection of links to different datasets of Cnidarian and Ctenophore resources.  
+It is unlikely that this is a complete list so if I am missing something please let me know in a email: gideon.bergheim@cos.uni-heidelberg.de.
 
-[**Anthozoa**](#anthozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Hexacorallia](#hexacorallia)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Anthopleura elegantissia_](#anthopleura-elegantissima)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Acropora | 15 species_](#acropora-15-species)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Acropora muricata_](#acropora-muricata)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Astreopora myriophthalma_](#astreopora-myriophthalma)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Fungia scutaria_](#fungia-scutaria)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montastraea cavernosa_](#montastraea-cavernosa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora cactus_](#montipora-cactus)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora efflorescens_](#montipora-efflorescens)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Montipora foliosa_](#montipora-foliosa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Porites australiensis_](#porites-australiensis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Pocillopora damicornis_](#pocillopora-damicornis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Pocillopora verrucosa_](#pocillopora-verrucosa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Seriatopora hystrix_](#seriatopora-hystrix)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Octocorallia](#octocorallia)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Renilla reniformis_](#renilla-reniformis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Xenia spec._](#xenia-spec)<br>
-[**Endocnidozoa**](#endocnidozoa)<br>
-[**Medusozoa**](#medusozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Calvadosia cruxmelitensis_](#calvadosia-cruxmelitensis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Alatina alata_](#alatina-alata)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Morbakka virulenta_](#morbakka-virulenta)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Cassiopea xamachana_](#cassiopea-xamachana)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra vulgaris_](#hydra-vulgaris)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydra viridissima_](#hydra-viridissima)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydractinia symbiolongicarpus_](#hydractinia-symbiolongicarpus)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Hydractinia echinatas_](#hydractinia-echinatas)<br>
-<br>
+*Contributers:*
+- B. Gideon Bergheim, Özbek Group, University Heidelberg
 
-[**Ctenophora**](#ctenophora)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [_Mnemiopsis leidyi_](#mnemiopsis-leidyi)<br>
 
-[References](#references)
+Current number of species: 39<br>Last updated: 2022-10-20
 
-<hr>
+&nbsp;&nbsp;&nbsp;&nbsp;[Cnidaria](#cnidaria)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthozoa](#anthozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hexacorallia](#hexacorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Acropora](#acropora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora acuminata*](#acropora-acuminata) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora awi*](#acropora-awi) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora cytherea*](#acropora-cytherea) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora digitifera*](#acropora-digitifera) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora echinata*](#acropora-echinata) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora florida*](#acropora-florida) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora gemmifera*](#acropora-gemmifera) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora hyacinthus*](#acropora-hyacinthus) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora intermedia*](#acropora-intermedia) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora microphthalma*](#acropora-microphthalma) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora muricata*](#acropora-muricata) (Genome assembly, Predicted Genes, Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora nasuta*](#acropora-nasuta) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora selago*](#acropora-selago) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora tenuis*](#acropora-tenuis) (Genome assembly, Predicted Genes, Predicted Transcripts, Predicted Proteins, Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Acropora yongei*](#acropora-yongei) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Astreopora](#astreopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Astreopora myriophthalma*](#astreopora-myriophthalma) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Porites](#porites)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Porites australiensis*](#porites-australiensis) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montipora](#montipora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Montipora cactus*](#montipora-cactus) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Montipora efflorescens*](#montipora-efflorescens) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Montipora foliosa*](#montipora-foliosa) (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anthopleura](#anthopleura)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Anthopleura elegantissima*](#anthopleura-elegantissima) (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fungia](#fungia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Fungia scutaria*](#fungia-scutaria) (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Montastraea](#montastraea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Montastraea cavernosa*](#montastraea-cavernosa) (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Seriatopora](#seriatopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Seriatopora hystrix*](#seriatopora-hystrix) (Transcriptome Assembly)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pocillopora](#pocillopora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Pocillopora damicornis*](#pocillopora-damicornis) (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Pocillopora verrucosa*](#pocillopora-verrucosa) (Transcriptome Assembly, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Octocorallia](#octocorallia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Renilla](#renilla)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Renilla reniformis*](#renilla-reniformis) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xenia](#xenia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Xenia spec.*](#xenia-spec.) (Genome assembly, Predicted Genes, Predicted Proteins, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Medusozoa](#medusozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scyphozoa](#scyphozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aurelia](#aurelia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Aurelia aurita(Atlantic Ocean)*](#aurelia-aurita(atlantic-ocean)) (Genome assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Aurelia aurita(Roscoff)*](#aurelia-aurita(roscoff)) (Genome assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cassiopea](#cassiopea)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Cassiopea xamachana*](#cassiopea-xamachana) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydrozoa](#hydrozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydra](#hydra)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Hydra viridissima*](#hydra-viridissima) (Genome assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Hydra vulgaris*](#hydra-vulgaris) (Genome assembly, Predicted Genes, Predicted Proteins, Transcript Assembly, Mito Chromosome, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hydractinia](#hydractinia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Hydractinia symbiolongicarpus*](#hydractinia-symbiolongicarpus) (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA, Single Cell Atlas)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Hydractinia echinata*](#hydractinia-echinata) (Genome Assembly, Predicted Genes, Predicted Proteins, Transcriptome Assembly, Proteins, Mito Chromosome, Predicted miRNA)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cubozoa](#cubozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Morbakka](#morbakka)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Morbakka virulenta*](#morbakka-virulenta) (Genome assembly, Predicted Genes, Predicted Proteins)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Alatina(Bonaire)](#alatina(bonaire))<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Alatina(Bonaire) alata*](#alatina(bonaire)-alata) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Staurozoa](#staurozoa)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calvadosia](#calvadosia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Calvadosia cruxmelitensis*](#calvadosia-cruxmelitensis) (Genome assembly, Predicted Genes)<br>&nbsp;&nbsp;&nbsp;&nbsp;[Ctenophora](#ctenophora)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tentaculata](#tentaculata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lobata](#lobata)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mnemiopsis](#mnemiopsis)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [*Mnemiopsis leidyi*](#mnemiopsis-leidyi) (Genome assembly, Transcriptome Assembly, Predicted Genes, Predicted Proteins, Mito Chromosome, Single Cell Atlas)<br>
+## Cnidaria
+### Anthozoa
+#### Hexacorallia
+##### Acropora
+*Acropora acuminata*
 
-## Anthozoa
+<a href='https://marinegenomics.oist.jp/aacu/viewer/download?project_id=84'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aacu/viewer/download?project_id=84)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Taxon">
+<a href='https://marinegenomics.oist.jp/aacu/viewer/download?project_id=84'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aacu/viewer/download?project_id=84)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-### Hexacorallia
+<hr class='Species'>
 
-<hr>
+*Acropora awi*
 
-#### Anthopleura elegantissima
+<a href='https://marinegenomics.oist.jp/aawi/viewer/download?project_id=85'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aawi/viewer/download?project_id=85)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Reference: Kitchen et al. 2015<br>
-[Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+<a href='https://marinegenomics.oist.jp/aacu/viewer/download?project_id=85'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aacu/viewer/download?project_id=85)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<hr class='Species'>
 
-#### Acropora 15 species
+*Acropora cytherea*
 
-**Genome Assemblies**<br>
-[OIST Genome project](https://marinegenomics.oist.jp/gallery) contains:
+<a href='https://marinegenomics.oist.jp/acyt/viewer/download?project_id=86'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/acyt/viewer/download?project_id=86)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-- Acropora acuminata
-- Acropora awi
-- Acropora cytherea
-- Acropora digitifera
-- Acropora echinata
-- Acropora florida
-- Acropora gemmifera
-- Acropora hyacinthus
-- Acropora intermedia
-- Acropora microphthalma
-- Acropora muricata
-- Acropora nasuta
-- Acropora selago
-- Acropora tenuis
-- Acropora yongei
+<a href='https://marinegenomics.oist.jp/acyt/viewer/download?project_id=86'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/acyt/viewer/download?project_id=86)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<hr class='Species'>
 
-#### Acropora muricata
+*Acropora digitifera*
 
-Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+<a href='https://marinegenomics.oist.jp/adig/viewer/download?project_id=87'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/adig/viewer/download?project_id=87)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/adig/viewer/download?project_id=87'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/adig/viewer/download?project_id=87)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Astreopora myriophthalma
+<hr class='Species'>
 
-**Genome Assembly**<br>
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+*Acropora echinata*
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/aech/viewer/download?project_id=88'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aech/viewer/download?project_id=88)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Fungia scutaria
+<a href='https://marinegenomics.oist.jp/aech/viewer/download?project_id=88'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aech/viewer/download?project_id=88)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Reference: Kitchen et al. 2015 <br>
-[Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+<hr class='Species'>
 
-<hr class="Species">
+*Acropora florida*
 
-#### Montastraea cavernosa
+<a href='https://marinegenomics.oist.jp/aflo/viewer/download?project_id=89'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aflo/viewer/download?project_id=89)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Reference: Kitchen et al. 2015<br>
-[Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+<a href='https://marinegenomics.oist.jp/aflo/viewer/download?project_id=89'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aflo/viewer/download?project_id=89)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<hr class='Species'>
 
-#### Montipora cactus
+*Acropora gemmifera*
 
-Genome:
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+<a href='https://marinegenomics.oist.jp/agem/viewer/download?project_id=90'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/agem/viewer/download?project_id=90)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/agem/viewer/download?project_id=90'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/agem/viewer/download?project_id=90)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Montipora efflorescens
+<hr class='Species'>
 
-Genome:
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+*Acropora hyacinthus*
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/ahya/viewer/download?project_id=91'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/ahya/viewer/download?project_id=91)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Montipora foliosa
+<a href='https://marinegenomics.oist.jp/ahya/viewer/download?project_id=91'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/ahya/viewer/download?project_id=91)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+<hr class='Species'>
 
-<hr class="Species">
+*Acropora intermedia*
 
-#### Pocillopora damicornis
+<a href='https://marinegenomics.oist.jp/aint/viewer/download?project_id=92'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aint/viewer/download?project_id=92)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+<a href='https://marinegenomics.oist.jp/aint/viewer/download?project_id=92'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aint/viewer/download?project_id=92)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<hr class='Species'>
 
-#### Pocillopora verrucosa
+*Acropora microphthalma*
 
-Transcriptomes [Han et al. 2022](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)
+<a href='https://marinegenomics.oist.jp/amic/viewer/download?project_id=93'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/amic/viewer/download?project_id=93)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/amic/viewer/download?project_id=93'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/amic/viewer/download?project_id=93)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Porites australiensis
+<hr class='Species'>
 
-Genome:
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+*Acropora muricata*
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/amur/viewer/download?project_id=94'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/amur/viewer/download?project_id=94)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### Seriatopora hystrix
+<a href='https://marinegenomics.oist.jp/amur/viewer/download?project_id=94'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/amur/viewer/download?project_id=94)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Reference: Kitchen et al. 2015<br>
-[Transcriptome assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
 
-<hr class="Species">
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
 
-### Octocorallia
+<hr class='Species'>
 
-<hr>
+*Acropora nasuta*
 
-#### **Renilla reniformis**
+<a href='https://marinegenomics.oist.jp/anas/viewer/download?project_id=95'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/anas/viewer/download?project_id=95)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Data Repository: [Ryan Lab](http://ryanlab.whitney.ufl.edu)<br>
-Reference: ([Kayal et al. 2018](https://doi.org/10.1186/s12862-018-1142-0))
+<a href='https://marinegenomics.oist.jp/anas/viewer/download?project_id=95'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/anas/viewer/download?project_id=95)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Genome:<br>
-[Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Renilla_reniformis.v1.fa.gz)
+<hr class='Species'>
 
-Gene models:<br>
+*Acropora selago*
 
-- [transcripts](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.cds.gz)
-- [proteins](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.aa.gz)
-- [annotations](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/downloads/Reni_reni.v1.gff.gz)
+<a href='https://marinegenomics.oist.jp/asel/viewer/download?project_id=96'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/asel/viewer/download?project_id=96)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class= "Species">
+<a href='https://marinegenomics.oist.jp/asel/viewer/download?project_id=96'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/asel/viewer/download?project_id=96)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-#### **Xenia spec.**
+<hr class='Species'>
 
-[Genome, Transcripts, Proteins, annotations](https://cmo.carnegiescience.edu/data), [Single Cell](https://cmo.carnegiescience.edu/cb/?ds=non_regeneration_integrated)
+*Acropora tenuis*
 
-<hr>
+<a href='https://marinegenomics.oist.jp/aten/viewer/download?project_id=97'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aten/viewer/download?project_id=97)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-## Endocnidozoa
+<a href='https://marinegenomics.oist.jp/aten/viewer/download?project_id=97'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aten/viewer/download?project_id=97)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Taxon">
+<a href='https://marinegenomics.oist.jp/aten/viewer/download?project_id=97'><img src='icons/Predicted Transcripts.svg'></a>- [Predicted Transcripts](https://marinegenomics.oist.jp/aten/viewer/download?project_id=97)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-## Medusozoa
+<a href='https://marinegenomics.oist.jp/aten/viewer/download?project_id=97'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://marinegenomics.oist.jp/aten/viewer/download?project_id=97)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-<hr class="Taxon">
+<a href='https://marinegenomics.oist.jp/aten/viewer/download?project_id=97'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://marinegenomics.oist.jp/aten/viewer/download?project_id=97)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-### Staurozoa
+<hr class='Species'>
 
-<hr>
+*Acropora yongei*
 
-#### **Calvadosia cruxmelitensis**
+<a href='https://marinegenomics.oist.jp/ayon/viewer/download?project_id=98'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/ayon/viewer/download?project_id=98)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Data Repository: [Ryan Lab](http://ryanlab.whitney.ufl.edu)<br>
-Reference: ([Ohdera et al. 2018](https://doi.org/10.3389/fevo.2018.00035))
+<a href='https://marinegenomics.oist.jp/ayon/viewer/download?project_id=98'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/ayon/viewer/download?project_id=98)		Publication: Shinzato et al.		 DOI: 10.1093/molbev/msaa216
 
-Genome:<br>
-[Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Ccrux/downloads/Ccrux.v3.greater200.fasta.gz)
+<hr class='Species'>
 
-Gene models and Proteome <br>
-[github](https://github.com/josephryan/Ohdera_et_al_2018/tree/master/AA_Files)
+##### Anthopleura
+*Anthopleura elegantissima*
 
-### Cubozoa
+<a href='https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)		Publication: Kitchen et al.		 DOI: 10.1534/g3.115.020164
 
-#### Morbakka virulenta
+<hr class='Species'>
 
-Genome: [OIST Genome project](https://marinegenomics.oist.jp/gallery)
+##### Astreopora
+*Astreopora myriophthalma*
 
-<hr>
+<a href='https://marinegenomics.oist.jp/amyr_1_1/viewer/download?project_id=107'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/amyr_1_1/viewer/download?project_id=107)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-#### **Alatina alata**
+<a href='https://marinegenomics.oist.jp/amyr_1_1/viewer/download?project_id=107'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/amyr_1_1/viewer/download?project_id=107)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-Data Repository: [Ryan Lab](http://ryanlab.whitney.ufl.edu)<br>
-Reference: ([Ohdera et al. 2018](https://doi.org/10.3389/fevo.2018.00035))
+<hr class='Species'>
 
-Genome:<br>
-[Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Aala/downloads/Aala.11.genome.fsa.gz)
-Atlantic Ocean and Roscoff laboratory strain at: [OIST Genome project](https://marinegenomics.oist.jp/gallery)
+##### Fungia
+*Fungia scutaria*
 
-Gene models and Proteome <br>
-[github](https://github.com/josephryan/Ohdera_et_al_2018/tree/master/AA_Files)
+<a href='https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)		Publication: Kitchen et al.		 DOI: 10.1534/g3.115.020164
 
-Short Reads
-[SRA reads](https://www.ncbi.nlm.nih.gov/sra/?term=Alatina%20alata%5Borgn%5D)
+<hr class='Species'>
 
-<hr class="Species">
+##### Montastraea
+*Montastraea cavernosa*
 
-### Scyphozoa
+<a href='https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)		Publication: Kitchen et al.		 DOI: 10.1534/g3.115.020164
 
-<hr>
+<hr class='Species'>
 
-#### **Cassiopea xamachana**
+##### Montipora
+*Montipora cactus*
 
-Data Repository: [Ryan Lab](http://ryanlab.whitney.ufl.edu)<br>
-Reference: ([Ohdera et al. 2018](https://doi.org/10.3389/fevo.2018.00035))
+<a href='https://marinegenomics.oist.jp/mcac_1_1/viewer/download?project_id=105'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/mcac_1_1/viewer/download?project_id=105)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-Data repository: [Github](https://github.com/josephryan/Ohdera_et_al_2018)
+<a href='https://marinegenomics.oist.jp/mcac_1_1/viewer/download?project_id=105'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/mcac_1_1/viewer/download?project_id=105)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-### Hydrozoa
+<hr class='Species'>
 
-#### Hydra vulgaris
+*Montipora efflorescens*
 
-Genome Portal: [Hydra 2.0 Genome Project Portal](https://research.nhgri.nih.gov/hydra/)
+<a href='https://marinegenomics.oist.jp/meff_1_1/viewer/download?project_id=106'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/meff_1_1/viewer/download?project_id=106)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-<hr class="Species">
+<a href='https://marinegenomics.oist.jp/meff_1_1/viewer/download?project_id=106'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/meff_1_1/viewer/download?project_id=106)		Publication: Yoshioka et al.		 DOI: 10.1186/s12862-022-02023-8
 
-#### Hydra viridissima
+<hr class='Species'>
 
-Genome:
-[OIST Genome project](https://marinegenomics.oist.jp/gallery)
+*Montipora foliosa*
 
-#### Hydractinia symbiolongicarpus
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
 
-<hr class="Species">
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
 
-Genome, Transcriptome, Protein models and Single Cell: [Hydractina Genome Portal](https://research.nhgri.nih.gov/hydractinia/download/index.cgi?dl=pm)
+<hr class='Species'>
 
-#### Hydractinia echinata
+##### Pocillopora
+*Pocillopora damicornis*
 
-Genome, Transcriptome and Protein models: [Hydractina Genome Portal](https://research.nhgri.nih.gov/hydractinia/download/index.cgi?dl=pm)
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
 
-<hr>
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
+
+<hr class='Species'>
+
+*Pocillopora verrucosa*
+
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
+
+<a href='https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://figshare.com/articles/dataset/Full-length_transcriptome_maps_of_reef-building_coral_illuminate_the_molecular_basis_of_calcification_symbiosis_and_circadian_genes/19403021)		Publication: Han et al.		 DOI: 10.3390/ijms231911135
+
+<hr class='Species'>
+
+##### Porites
+*Porites australiensis*
+
+<a href='https://marinegenomics.oist.jp/pau/viewer/download?project_id=108'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/pau/viewer/download?project_id=108)		Publication: Shinzato et al.		 DOI: 10.1093/gbe/evab270
+
+<a href='https://marinegenomics.oist.jp/pau/viewer/download?project_id=108'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/pau/viewer/download?project_id=108)		Publication: Shinzato et al.		 DOI: 10.1093/gbe/evab270
+
+<hr class='Species'>
+
+##### Seriatopora
+*Seriatopora hystrix*
+
+<a href='https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3f08f)		Publication: Kitchen et al.		 DOI: 10.1534/g3.115.020164
+
+<hr class='Species'>
+
+#### Octocorallia
+##### Renilla
+*Renilla reniformis*
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/)		Publication: Kayal et al.		 DOI: 10.1186/s12862-018-1142-0
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](http://ryanlab.whitney.ufl.edu/genomes/Renilla_reniformis/)		Publication: Kayal et al.		 DOI: 10.1186/s12862-018-1142-0
+
+<hr class='Species'>
+
+##### Xenia
+*Xenia spec.*
+
+<a href='https://cmo.carnegiescience.edu/data'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://cmo.carnegiescience.edu/data)		Publication: Hu, et al.		 DOI: 10.1038/s41586-020-2385-7
+
+<a href='https://cmo.carnegiescience.edu/data'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://cmo.carnegiescience.edu/data)		Publication: Hu, et al.		 DOI: 10.1038/s41586-020-2385-7
+
+<a href='https://cmo.carnegiescience.edu/data'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://cmo.carnegiescience.edu/data)		Publication: Hu, et al.		 DOI: 10.1038/s41586-020-2385-7
+
+<a href='https://cmo.carnegiescience.edu/cb/?ds=non_regeneration_integrated'><img src='icons/Single Cell Atlas.svg'></a>- [Single Cell Atlas](https://cmo.carnegiescience.edu/cb/?ds=non_regeneration_integrated)		Publication: Hu, et al.		 DOI: 10.1038/s41586-020-2385-7
+
+<hr class='Species'>
+
+### Medusozoa
+#### Scyphozoa
+##### Aurelia
+*Aurelia aurita(Atlantic Ocean)*
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://marinegenomics.oist.jp/aurelia_aurita/viewer/download?project_id=69)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<hr class='Species'>
+
+*Aurelia aurita(Roscoff)*
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://marinegenomics.oist.jp/aurelia_aurita_pacific/viewer/download?project_id=75)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<hr class='Species'>
+
+##### Cassiopea
+*Cassiopea xamachana*
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Cxam/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Cxam/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Cxam/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](http://ryanlab.whitney.ufl.edu/genomes/Cxam/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<hr class='Species'>
+
+#### Hydrozoa
+##### Hydra
+*Hydra viridissima*
+
+<a href='https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82)		Publication: 		 DOI: nan
+
+<a href='https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82)		Publication: 		 DOI: nan
+
+<a href='https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://marinegenomics.oist.jp/hydra_viridissima_a99/viewer/download?project_id=82)		Publication: 		 DOI: nan
+
+<hr class='Species'>
+
+*Hydra vulgaris*
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://research.nhgri.nih.gov/hydra/)		Publication: Chapman et al.		 DOI: 10.1038/nature08830
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://research.nhgri.nih.gov/hydra/)		Publication: Chapman et al.		 DOI: 10.1038/nature08830
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://research.nhgri.nih.gov/hydra/)		Publication: Chapman et al.		 DOI: 10.1038/nature08830
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Transcript Assembly.svg'></a>- [Transcript Assembly](https://research.nhgri.nih.gov/hydra/)		Publication: Juliano et al.		 DOI: 10.1073/pnas.1320965111
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Transcript Assembly.svg'></a>- [Transcript Assembly](https://research.nhgri.nih.gov/hydra/)		Publication: Petersen et al.		 DOI: 10.1073/pnas.1320965111
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Transcript Assembly.svg'></a>- [Transcript Assembly](https://research.nhgri.nih.gov/hydra/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydra/'><img src='icons/Mito Chromosome.svg'></a>- [Mito Chromosome](https://research.nhgri.nih.gov/hydra/)		Publication: Voigt et al.		 DOI: 10.1186/1471-2164-9-350
+
+<a href='https://singlecell.broadinstitute.org/single_cell/study/SCP260/stem-cell-differentiation-trajectories-in-hydra-resolved-at-single-cell-resolution'><img src='icons/Single Cell Atlas.svg'></a>- [Single Cell Atlas](https://singlecell.broadinstitute.org/single_cell/study/SCP260/stem-cell-differentiation-trajectories-in-hydra-resolved-at-single-cell-resolution)		Publication: Siebert, et al.		 DOI: 10.1126/science.aav9314
+
+<hr class='Species'>
+
+##### Hydractinia
+*Hydractinia echinata*
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Mito Chromosome.svg'></a>- [Mito Chromosome](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Proteins.svg'></a>- [Proteins](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted miRNA.svg'></a>- [Predicted miRNA](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<hr class='Species'>
+
+*Hydractinia symbiolongicarpus*
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Mito Chromosome.svg'></a>- [Mito Chromosome](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/SingleCellBrowser/'><img src='icons/Single Cell Atlas.svg'></a>- [Single Cell Atlas](https://research.nhgri.nih.gov/hydractinia/SingleCellBrowser/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Genome Assembly.svg'></a>- [Genome Assembly](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Proteins.svg'></a>- [Proteins](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<a href='https://research.nhgri.nih.gov/hydractinia/'><img src='icons/Predicted miRNA.svg'></a>- [Predicted miRNA](https://research.nhgri.nih.gov/hydractinia/)		Publication: 		 DOI: nan
+
+<hr class='Species'>
+
+#### Cubozoa
+##### Alatina(Bonaire)
+*Alatina(Bonaire) alata*
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Aala/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Aala/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Aala/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](http://ryanlab.whitney.ufl.edu/genomes/Aala/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<hr class='Species'>
+
+##### Morbakka
+*Morbakka virulenta*
+
+<a href='https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<a href='https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://marinegenomics.oist.jp/morbakka_virulenta/viewer/download?project_id=70)		Publication: Khalturin, et al.		 DOI: 10.1038/s41559-019-0853-y
+
+<hr class='Species'>
+
+#### Staurozoa
+##### Calvadosia
+*Calvadosia cruxmelitensis*
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Ccrux/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](http://ryanlab.whitney.ufl.edu/genomes/Ccrux/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<a href='http://ryanlab.whitney.ufl.edu/genomes/Ccrux/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](http://ryanlab.whitney.ufl.edu/genomes/Ccrux/)		Publication: Ohdera et al.		 DOI: 10.1093/gigascience/giz069
+
+<hr class='Species'>
+
 
 ## Ctenophora
+### Tentaculata
+#### Lobata
+##### Mnemiopsis
+*Mnemiopsis leidyi*
 
-<hr class="Taxon">
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Genome assembly.svg'></a>- [Genome assembly](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: 		 DOI: nan
 
-#### **Mnemiopsis leidyi**
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Predicted Genes.svg'></a>- [Predicted Genes](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: 		 DOI: nan
 
-References: [Babonis et al. 2018](https://doi.org/10.1093/molbev/msy171), [Maxwell et al. 2012](https://doi.org/10.1186/1471-2164-13-714), [Ryan et al. 2013](https://doi.org/10.1126/science.1242592)
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Predicted Proteins.svg'></a>- [Predicted Proteins](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: 		 DOI: nan
 
-Genome Portal: [https://research.nhgri.nih.gov/mnemiopsis/](https://research.nhgri.nih.gov/mnemiopsis/)
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Transcriptome Assembly.svg'></a>- [Transcriptome Assembly](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: 		 DOI: nan
 
-# References
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Mito Chromosome.svg'></a>- [Mito Chromosome](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: 		 DOI: nan
 
-> **Babonis** LS, DeBiasse MB, Francis WR, Christianson LM, Moss AG, Haddock SHD, Martindale MQ, Ryan JF. Integrating Embryonic Development and Evolutionary History to Characterize Tentacle-Specific Cell Types in a Ctenophore. Mol Biol Evol. 2018 Dec 1;35(12):2940-2956. doi:https://doi.org/10.1093/molbev/msy171
+<a href='https://research.nhgri.nih.gov/mnemiopsis/'><img src='icons/Single Cell Atlas.svg'></a>- [Single Cell Atlas](https://research.nhgri.nih.gov/mnemiopsis/)		Publication: Sebé-Pedrós et al.		 DOI: 10.1038/s41559-018-0575-6
 
-> **Han** T, Liao X, Zhu Y, Liu Y, Lu N, Li Y, Guo Z, Chen J-Y, He C, Lu Z. Full-Length Transcriptome Maps of Reef-Building Coral Illuminate the Molecular Basis of Calcification, Symbiosis, and Circadian Genes. International Journal of Molecular Sciences. 2022; 23(19):11135. https://doi.org/10.3390/ijms231911135
+<hr class='Species'>
 
-> **Kayal**, E., Bentlage, B., Sabrina Pankey, M. et al. Phylogenomics provides a robust topology of the major cnidarian lineages and insights on the origins of key organismal traits. BMC Evol Biol 18, 68 (2018). https://doi.org/10.1186/s12862-018-1142-0
+> **Chapman** JA, Kirkness EF, Simakov O, Hampson SE, Mitros T, Weinmaier T, Rattei T, Balasubramanian PG, Borman J, Busam D, Disbennett K, Pfannkoch C, Sumin N, Sutton GG, Viswanathan LD, Walenz B, Goodstein DM, Hellsten U, Kawashima T, Prochnik SE, Putnam NH, Shu S, Blumberg B, Dana CE, Gee L, Kibler DF, Law L, Lindgens D, Martinez DE, Peng J, Wigge PA, Bertulat B, Guder C, Nakamura Y, Ozbek S, Watanabe H, Khalturin K, Hemmrich G, Franke A, Augustin R, Fraune S, Hayakawa E, Hayakawa S, Hirose M, Hwang JS, Ikeo K, Nishimiya-Fujisawa C, Ogura A, Takahashi T, Steinmetz PR, Zhang X, Aufschnaiter R, Eder MK, Gorny AK, Salvenmoser W, Heimberg AM, Wheeler BM, Peterson KJ, Böttger A, Tischler P, Wolf A, Gojobori T, Remington KA, Strausberg RL, Venter JC, Technau U, Hobmayer B, Bosch TC, Holstein TW, Fujisawa T, Bode HR, David CN, Rokhsar DS, Steele RE. The dynamic genome of Hydra. Nature. 2010 Mar 25;464(7288):592-6. doi: 10.1038/nature08830. Epub 2010 Mar 14. PMID: 20228792; PMCID: PMC4479502.
 
-> **Kitchen** SA, Crowder CM, Poole AZ, Weis VM, Meyer E. De Novo Assembly and Characterization of Four Anthozoan (Phylum Cnidaria) Transcriptomes. G3 (Bethesda). 2015 Sep 17;5(11):2441-52. doi: https://doi.org/10.1534/g3.115.020164. PMID: 26384772; PMCID: PMC4632063.
+> **Han** T, Liao X, Zhu Y, Liu Y, Lu N, Li Y, Guo Z, Chen JY, He C, Lu Z. Full-Length Transcriptome Maps of Reef-Building Coral Illuminate the Molecular Basis of Calcification, Symbiosis, and Circadian Genes. Int J Mol Sci. 2022 Sep 22;23(19):11135. doi: 10.3390/ijms231911135. PMID: 36232445; PMCID: PMC9570262.
 
-> **Maxwell** EK, Ryan JF, Schnitzler CE, Browne WE, Baxevanis AD. MicroRNAs and essential components of the microRNA processing machinery are not encoded in the genome of the ctenophore Mnemiopsis leidyi. BMC Genomics. 2012 Dec 20;13:714. doi:https://doi.org/10.1186/1471-2164-13-714
+> **Hu,** M., Zheng, X., Fan, CM. et al. Lineage dynamics of the endosymbiotic cell type in the soft coral Xenia. Nature 582, 534–538 (2020). https://doi.org/10.1038/s41586-020-2385-7
 
-> **Ohdera** AH, Abrams MJ, Ames CL, Baker DM, Suescún-Bolívar LP, Collins AG, Freeman CJ, Gamero-Mora E, Goulet TL, Hofmann DK, Jaimes-Becerra A, Long PF, Marques AC, Miller LA, Mydlarz LD, Morandini AC, Newkirk CR, Putri SP, Samson JE, Stampar SN, Steinworth B, Templeman M, Thomé PE, Vlok M, Woodley CM, Wong JC, Martindale MQ, Fitt WK and Medina M (2018) Upside-Down but Headed in the Right Direction: Review of the Highly Versatile Cassiopea xamachana System. Front. Ecol. Evol. 6:35. doi: https://doi.org/10.3389/fevo.2018.00035
+> **Juliano** CE, Reich A, Liu N, Götzfried J, Zhong M, Uman S, Reenan RA, Wessel GM, Steele RE, Lin H. PIWI proteins and PIWI-interacting RNAs function in Hydra somatic stem cells. Proc Natl Acad Sci U S A. 2014 Jan 7;111(1):337-42. doi: 10.1073/pnas.1320965111. Epub 2013 Dec 23. PMID: 24367095; PMCID: PMC3890812.
 
-> **Ryan** JF, Pang K, Schnitzler CE, Nguyen AD, Moreland RT, Simmons DK, Koch BJ, Francis WR, Havlak P; NISC Comparative Sequencing Program, Smith SA, Putnam NH, Haddock SH, Dunn CW, Wolfsberg TG, Mullikin JC, Martindale MQ, Baxevanis AD. The genome of the ctenophore Mnemiopsis leidyi and its implications for cell type evolution. Science. 2013 Dec 13;342(6164):1242592. doi:https://doi.org/10.1126/science.1242592
+> **Kayal** E, Bentlage B, Pankey MS, Ohdera AH, Medina M, Plachetzki DC, Collins AG, Ryan JF. Phylogenomics provides a robust topology of the major cnidarian lineages and insights on the origins of key organismal traits. BMC Evolutionary Biology. 2018 Dec;18(1):68.
 
-<style>
-hr.Taxon{
-    border-bottom: 4px solid;
-}
-hr.Species{
-    border-bottom: 1px dotted;
-}  
-</style>
+> **Khalturin,** K., Shinzato, C., Khalturina, M. et al. Medusozoan genomes inform the evolution of the jellyfish body plan. Nat Ecol Evol 3, 811–822 (2019). https://doi.org/10.1038/s41559-019-0853-y
+
+> **Khalturin,** K., Shinzato, C., Khalturina, M., Hamada, M., Fujie, M., Koyanagi, R., Kanda, M., Goto, H., Anton-Erxleben, F., Toyokawa, M., Toshino, S., Satoh, N. Medusozoan genomes inform the evolution of the jellyfish body plan Nature Ecology & Evolution
+
+> **Kitchen** SA, Crowder CM, Poole AZ, Weis VM, Meyer E. De Novo Assembly and Characterization of Four Anthozoan (Phylum Cnidaria) Transcriptomes. G3 (Bethesda). 2015 Sep 17;5(11):2441-52. doi: 10.1534/g3.115.020164. PMID: 26384772; PMCID: PMC4632063.
+
+> **Ohdera** A, Ames CL, Dikow RB, Kayal E, Chiodin M, Busby B, La S, Pirro S, Collins AG, Medina M, Ryan JF. Box, stalked, and upside-down? Draft genomes from diverse jellyfish (Cnidaria, Acraspeda) lineages: Alatina alata (Cubozoa), Calvadosia cruxmelitensis (Staurozoa), and Cassiopea xamachana (Scyphozoa). Gigascience. 2019 Jul 1;8(7):giz069. doi: 10.1093/gigascience/giz069. PMID: 31257419; PMCID: PMC6599738.
+
+> **Petersen** HO, Höger SK, Looso M, Lengfeld T, Kuhn A, Warnken U, Nishimiya-Fujisawa C, Schnölzer M, Krüger M, Özbek S, Simakov O, Holstein TW. A Comprehensive Transcriptomic and Proteomic Analysis of Hydra Head Regeneration. Mol Biol Evol. 2015 Aug;32(8):1928-47. doi: 10.1093/molbev/msv079. Epub 2015 Apr 3. PMID: 25841488; PMCID: PMC4833066.
+
+> **Sebé-Pedrós** A, Chomsky E, Pang K, Lara-Astiaso D, Gaiti F, Mukamel Z, Amit I, Hejnol A, Degnan BM, Tanay A. Early metazoan cell type diversity and the evolution of multicellular gene regulation. Nat Ecol Evol. 2018 Jul;2(7):1176-1188. doi: 10.1038/s41559-018-0575-6. Epub 2018 Jun 25. PMID: 29942020; PMCID: PMC6040636.
+
+> **Shinzato** C, Khalturin K, Inoue J, Zayasu Y, Kanda M, Kawamitsu M, Yoshioka Y, Yamashita H, Suzuki G, Satoh N. Eighteen coral genomes reveal the evolutionary origin of Acropora strategies to accommodate environmental changes. Molecular Biology and Evolution (2020) Doi: 10.1093/molbev/msaa216
+
+> **Shinzato** C, Takeuchi T, Yoshioka Y, Tada I, Kanda M, Broussard C, Iguchi A, Kusakabe M, Marin F, Satoh N, Inoue M. Whole-Genome Sequencing Highlights Conservative Genomic Strategies of a Stress-Tolerant, Long-Lived Scleractinian Coral, Porites australiensis Vaughan, 1918. Genome Biol Evol. 2021 Dec 1;13(12):evab270. doi: 10.1093/gbe/evab270. PMID: 34878117; PMCID: PMC8691061.
+
+> **Siebert,** Stefan; Farrell, Jeffrey A.; Cazet, Jack F.; Abeykoon, Yashodara; Primack, Abby S.; Schnitzler, Christine E.; Juliano, Celina E. (2019): Stem cell differentiation trajectories in Hydra resolved at single-cell resolution. In Science 365 (6451), eaav9314. DOI: 10.1126/science.aav9314.
+
+> **Voigt** O, Erpenbeck D, Wörheide G. A fragmented metazoan organellar genome: the two mitochondrial chromosomes of Hydra magnipapillata. BMC Genomics. 2008 Jul 26;9:350. doi: 10.1186/1471-2164-9-350. PMID: 18655725; PMCID: PMC2518934.
+
+> **Yoshioka** Y, Suzuki G, Zayasu Y, Yamashita H, Shinzato C. Comparative genomics highlight the importance of lineage-specific gene families in evolutionary divergence of the coral genus, Montipora. BMC Ecol Evol. 2022 May 27;22(1):71. doi: 10.1186/s12862-022-02023-8. PMID: 35624412; PMCID: PMC9145168.
+
