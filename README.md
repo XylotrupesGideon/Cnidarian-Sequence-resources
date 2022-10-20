@@ -2,7 +2,7 @@
 This is a collection of links to different datasets of Cnidarian and Ctenophore resources.  
 It is unlikely that this is a complete list so if I am missing something please let me know.
 
-If this page has helped you to save time or you just like the idea of creating this resouces for the cnidarian community let me know at the next conference or Buy me a [virtual coffee](https://www.buymeacoffee.com/Xylo).
+If this page has helped you to save time or you just like the idea of creating this resouces for the cnidarian community let me know at the next conference or buy me a [virtual coffee](https://www.buymeacoffee.com/Xylo).<br>
 *Contributers:*
 - B. Gideon Bergheim, Özbek Group, University Heidelberg, 
 Contact: email: gideon.bergheim@cos.uni-heidelberg.de | Twitter: [@XyloGideon](https://twitter.com/XyloGideon)
