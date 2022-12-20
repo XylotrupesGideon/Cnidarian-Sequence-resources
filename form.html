@@ -1,0 +1,22 @@
+<form action="process-form.php" method="post">
+    <label for="species-input">Enter the species:</label><br>
+    <input type="text" id="species-input" name="species-input"><br>
+    <label for="dataset-type-select">Select the dataset type:</label><br>
+    <select id="dataset-type-select" name="dataset-type-select">    <option value="Genome Assembly">Genome Assembly</option>
+      <option value="Predicted Genes">Predicted Genes</option>
+      <option value="Predicted Proteins">Predicted Proteins</option>
+      <option value="Transcriptome Assembly">Transcriptome Assembly</option>
+      <option value="SRA Library">SRA Library</option>
+      <option value="Single Cell Atlas">Single Cell Atlas</option>
+      <option value="Predicted Transcripts">Predicted Transcripts</option>
+      <option value="Transcript Assembly">Transcript Assembly</option>
+      <option value="Mitochondrial Chromosome">Mitochondrial Chromosome</option>
+      <option value="Proteins">Proteins</option>
+      <option value="Predicted miRNA">Predicted miRNA</option>
+    </select><br>
+    <label for="dataset-link-input">Enter the link to the dataset:</label><br>
+    <input type="text" id="dataset-link-input" name="dataset-link-input"><br>
+    <label for="publication-textarea">Enter the publication:</label><br>
+    <textarea id="publication-textarea" name="publication-textarea"></textarea><br>
+    <input type="submit" value="Submit">
+  </form>
