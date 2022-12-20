@@ -16,16 +16,14 @@
         <button class="power_button" onclick='resourceVisibility("SRA_Library")'>Show/Hide all SRA Library</button>
         <button class="power_button" onclick='resourceVisibility("Single_Cell_Atlas")'>Show/Hide all Single Cell Atlas</button>
         <button class="power_button" onclick='resourceVisibility("Predicted_Transcripts")'>Show/Hide all Predicted Transcripts</button>
-        <button class="power_button" onclick='resourceVisibility("Transcript_Assembly")'>Show/Hide all Transcript Assembly</button>
         <button class="power_button" onclick='resourceVisibility("Mitochondrial_Chromosome")'>Show/Hide all Mitochondrial Chromosome</button>
-        <button class="power_button" onclick='resourceVisibility("Proteins")'>Show/Hide all Proteins</button>
         <button class="power_button" onclick='resourceVisibility("Predicted_miRNA")'>Show/Hide all Predicted miRNA</button>
  </div>
             </header>
-            <main><!--SUBMIT DATASET FORM-->
+            <main><p id="update">last update: 2022-12-20<!--SUBMIT DATASET FORM-->
 <form class= "" id="submit_dataset" action="process-form.php" method="post">
   <h2 class=" reveal form_title" onclick="toggleVisibility('input_form')">Suggest/Submit a Dataset</h2>
-  <p>Suggesting datasets might or might not work. It is a work in progress.</p>
+    <p> Dataset Submission is work in progress. Send me an email if you want to submit/suggest a dataset.</p>
   <div class = "hidden" id="input_form">
     <label for="species-input">Enter the species:</label><br>
     <input type="text" id="species-input" name="species-input"><br>
@@ -37,9 +35,7 @@
       <option value="SRA Library">SRA Library</option>
       <option value="Single Cell Atlas">Single Cell Atlas</option>
       <option value="Predicted Transcripts">Predicted Transcripts</option>
-      <option value="Transcript Assembly">Transcript Assembly</option>
       <option value="Mitochondrial Chromosome">Mitochondrial Chromosome</option>
-      <option value="Proteins">Proteins</option>
       <option value="Predicted miRNA">Predicted miRNA</option>
     </select><br>
     <label for="dataset-link-input">Enter the link to the dataset:</label><br>
@@ -3698,9 +3694,9 @@
                           </table>
                       </div>
 
-                      <div class='dataset_type_group Transcript Assembly' id='Hydra_vulgaris_Transcript Assembly'>
-                        <p onclick="toggleVisibility('Hydra_vulgaris_Transcript_Assembly_table')" class='reveal resource Transcript_Assembly_title'>Transcript Assembly</p>
-                          <table class='hidden resource_table Transcript_Assembly' id='Hydra_vulgaris_Transcript_Assembly_table'>
+                      <div class='dataset_type_group Transcriptome Assembly' id='Hydra_vulgaris_Transcriptome Assembly'>
+                        <p onclick="toggleVisibility('Hydra_vulgaris_Transcriptome_Assembly_table')" class='reveal resource Transcriptome_Assembly_title'>Transcriptome Assembly</p>
+                          <table class='hidden resource_table Transcriptome_Assembly' id='Hydra_vulgaris_Transcriptome_Assembly_table'>
                               <tr>
                                 <th>Dataset Link</th>
                                 <th>Dataset DOI</th>
@@ -3839,20 +3835,7 @@
                                 <td><a href="https://doi.org/nan">nan</a></td>
                                 <td>nan</td>
                               </tr>
-                          </table>
-                      </div>
-
-                      <div class='dataset_type_group Transcriptome Assembly' id='Hydractinia_echinata_Transcriptome Assembly'>
-                        <p onclick="toggleVisibility('Hydractinia_echinata_Transcriptome_Assembly_table')" class='reveal resource Transcriptome_Assembly_title'>Transcriptome Assembly</p>
-                          <table class='hidden resource_table Transcriptome_Assembly' id='Hydractinia_echinata_Transcriptome_Assembly_table'>
-                              <tr>
-                                <th>Dataset Link</th>
-                                <th>Dataset DOI</th>
-                                <th>Publication</th>
-                                <th>Publication DOI</th>
-                                <th>Additional Information</th>
-                              </tr>
-                              <tr>
+                            <tr>
                                 <td><a href="https://research.nhgri.nih.gov/hydractinia/">Link to Dataset</a></td>
                                 <td><a href="https://doi.org/nan">nan</a></td>
                                 <td>nan</td>
@@ -3862,9 +3845,9 @@
                           </table>
                       </div>
 
-                      <div class='dataset_type_group Proteins' id='Hydractinia_echinata_Proteins'>
-                        <p onclick="toggleVisibility('Hydractinia_echinata_Proteins_table')" class='reveal resource Proteins_title'>Proteins</p>
-                          <table class='hidden resource_table Proteins' id='Hydractinia_echinata_Proteins_table'>
+                      <div class='dataset_type_group Transcriptome Assembly' id='Hydractinia_echinata_Transcriptome Assembly'>
+                        <p onclick="toggleVisibility('Hydractinia_echinata_Transcriptome_Assembly_table')" class='reveal resource Transcriptome_Assembly_title'>Transcriptome Assembly</p>
+                          <table class='hidden resource_table Transcriptome_Assembly' id='Hydractinia_echinata_Transcriptome_Assembly_table'>
                               <tr>
                                 <th>Dataset Link</th>
                                 <th>Dataset DOI</th>
@@ -3983,20 +3966,7 @@
                                 <td><a href="https://doi.org/nan">nan</a></td>
                                 <td>nan</td>
                               </tr>
-                          </table>
-                      </div>
-
-                      <div class='dataset_type_group Transcriptome Assembly' id='Hydractinia_symbiolongicarpus_Transcriptome Assembly'>
-                        <p onclick="toggleVisibility('Hydractinia_symbiolongicarpus_Transcriptome_Assembly_table')" class='reveal resource Transcriptome_Assembly_title'>Transcriptome Assembly</p>
-                          <table class='hidden resource_table Transcriptome_Assembly' id='Hydractinia_symbiolongicarpus_Transcriptome_Assembly_table'>
-                              <tr>
-                                <th>Dataset Link</th>
-                                <th>Dataset DOI</th>
-                                <th>Publication</th>
-                                <th>Publication DOI</th>
-                                <th>Additional Information</th>
-                              </tr>
-                              <tr>
+                            <tr>
                                 <td><a href="https://research.nhgri.nih.gov/hydractinia/">Link to Dataset</a></td>
                                 <td><a href="https://doi.org/nan">nan</a></td>
                                 <td>nan</td>
@@ -4006,9 +3976,9 @@
                           </table>
                       </div>
 
-                      <div class='dataset_type_group Proteins' id='Hydractinia_symbiolongicarpus_Proteins'>
-                        <p onclick="toggleVisibility('Hydractinia_symbiolongicarpus_Proteins_table')" class='reveal resource Proteins_title'>Proteins</p>
-                          <table class='hidden resource_table Proteins' id='Hydractinia_symbiolongicarpus_Proteins_table'>
+                      <div class='dataset_type_group Transcriptome Assembly' id='Hydractinia_symbiolongicarpus_Transcriptome Assembly'>
+                        <p onclick="toggleVisibility('Hydractinia_symbiolongicarpus_Transcriptome_Assembly_table')" class='reveal resource Transcriptome_Assembly_title'>Transcriptome Assembly</p>
+                          <table class='hidden resource_table Transcriptome_Assembly' id='Hydractinia_symbiolongicarpus_Transcriptome_Assembly_table'>
                               <tr>
                                 <th>Dataset Link</th>
                                 <th>Dataset DOI</th>
