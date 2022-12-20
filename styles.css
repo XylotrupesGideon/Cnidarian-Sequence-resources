@@ -38,8 +38,12 @@ textarea {
 header {
     background-color: #205489;
     padding: 5px;
-
 }
+
+header a {
+    color : #985735;
+}
+
 form {
     position: fixed;
     margin-top: 0;
