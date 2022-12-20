@@ -1,20 +1,44 @@
-h3.Species {
+html {
+    background-color: #584B53;
+}
+h3 {
+    color : #d6e3f8;
+}
+
+.hidden {
+    display : none;
+}
+.reveal {
+    color: #e4bb97;
+}
+
+.reveal:hover{
+    cursor: pointer;
+}
+
+.dataset_type_group {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.species_name {
     font-style: italic;
+    font-family: sans-serif;
+    font-size: 14pt;
+    padding-left: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
-div.Species_Resources {
-    border-color: lightgray;
-    border-width: 2px;
-    border-style: solid;
-    display: block;
+.genus_name {
+    margin-bottom: 0;
+    font-family: sans-serif;
 }
 
-div.resource{
-    display: block;
+.dataset_entry {
+    padding-left: 80px;
 }
 
-img.icon {
-    float: left;
-    padding-right: 20px;
-    display: block;
+.resource_table {
+    background-color: rgb(212, 212, 212);
+    font-weight: normal;
 }
