@@ -23,11 +23,10 @@
             <main><p id="update">last update: 2022-12-20</p><!--SUBMIT DATASET FORM-->
 <form class= "" id="submit_dataset" action="https://formspree.io/f/xzbqpgjv" method="POST">
   <h2 class=" reveal form_title" onclick="toggleVisibility('input_form')">Suggest/Submit a Dataset</h2>
-    <p> Dataset Submission is work in progress. Send me an email if you want to submit/suggest a dataset.</p>
   <div class = "hidden" id="input_form">
     <label for="email">Your email (in case I have questions):</label><br>
     <input type="text" id="email" name="email"><br>
-    <label for="species-input">Enter the species:</label><br>
+    <label for="species-input">Enter the species name:</label><br>
     <input type="text" id="species-input" name="species-input"><br>
     <label for="dataset-type-select">Select the dataset type:</label><br>
     <select id="dataset-type-select" name="dataset-type-select">      <option value="Genome Assembly">Genome Assembly</option>
@@ -38,7 +37,7 @@
       <option value="Single Cell Atlas">Single Cell Atlas</option>
       <option value="Predicted Transcripts">Predicted Transcripts</option>
       <option value="Mitochondrial Chromosome">Mitochondrial Chromosome</option>
-      <option value="Predicted miRNA">Predicted miRNA</option>
+      <option value="Predicted miRNA">Predicted miRNA</option>      <option value="other">other, please specify</option>
     </select><br>
     <label for="dataset-link-input">Enter the link to the dataset:</label><br>
     <input type="text" id="dataset-link-input" name="dataset-link-input"><br>
